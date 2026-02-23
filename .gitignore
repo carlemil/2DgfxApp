@@ -1,0 +1,44 @@
+# Android / Gradle
+.gradle/
+build/
+out/
+*.class
+*.jar
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Local configuration (contains SDK path)
+local.properties
+*.iml
+*.ipr
+*.iws
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+*.keystore
+release.jks
+
+# Test output
+*.tmp
+*.log
+lint-results*/
+test-results/
+
+# Kotlin compilation caches
+.kotlin/
+
+# Composed
+*.hprof
+captures/

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2D Gfx App</string>
+    <string name="no_effects_available">No effects available</string>
+    <string name="error_effect_init">Failed to start effect. Returning to menu.</string>
+    <string name="error_unknown_effect">Unknown effect</string>
+    <string name="menu_title">Effects</string>
+</resources>
